@@ -2,7 +2,6 @@
 
 This project presents a real-world web application vulnerability assessment conducted using **OWASP ZAP** on **OWASP Juice Shop**. It was completed as part of the **Future Intern Cybersecurity Internship Program**.
 
-![GitHub Banner](/mnt/data/A_GitHub_repository_banner_image_for_a_Security_As.png)
 
 ---
 
@@ -67,7 +66,7 @@ The aim of this assessment was to identify and analyze common web application vu
 
 ## 📥 Download Final Report
 
-> 🔗 [Click here to download the full Security Assessment Report (PDF)](./report/JuiceShop_Security_Assessment_Report.pdf)
+
 
 ---
 
