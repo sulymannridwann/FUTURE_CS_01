@@ -64,10 +64,6 @@ The aim of this assessment was to identify and analyze common web application vu
 ├── README.md
 ---
 
-## 📥 Download Final Report
-
-
-
 ---
 
 ## 📣 Acknowledgment
@@ -79,6 +75,6 @@ This project was conducted as part of my practical training as a Cybersecurity I
 ## 📬 Contact Me
 
 - 📧 rsulyman19@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ridwan-sulyman-b83b2b341)
+- 💼 [LinkedIn]https://linkedin.com/in/ridwan-sulyman-b83b2b341
 
 ---
