@@ -68,7 +68,10 @@ The aim of this assessment was to identify and analyze common web application vu
 
 ## 📣 Acknowledgment
 
-This project was conducted as part of my practical training as a Cybersecurity Intern, with a focus on vulnerability assessment and hands-on use of industry tools.
+This project was completed under the Future Intern Cybersecurity Internship Program.
+I am grateful for the opportunity to gain hands-on experience in real-world web application vulnerability assessment and reporting.
+
+Special thanks to Future Intern for providing structured guidance, mentorship, and practical learning resources that helped me improve my skills as a cybersecurity analyst.
 
 ---
 
