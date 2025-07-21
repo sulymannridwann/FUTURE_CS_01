@@ -14,7 +14,7 @@ The aim of this assessment was to identify and analyze common web application vu
 ## 🧑‍💻 Intern Details
 
 - **Name:** Sulyman Ridwan Oladimeji  
-- **Role:** Cybersecurity Intern  
+- **Role:** Cybersecurity Analyst Intern  
 - **Program:** Future Intern – Cybersecurity Internship  
 - **Track:** Cybersecurity & SOC Analyst  
 
